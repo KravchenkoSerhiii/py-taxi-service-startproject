@@ -35,4 +35,3 @@ class CarAdmin(admin.ModelAdmin):
     search_fields = [
         "model",
     ]
-# Register your models here.
